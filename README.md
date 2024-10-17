@@ -1,4 +1,4 @@
-# Inheritance-in-C-
+# Inheritance in C++
 ## Aim
 To study different types of Inheritance in C++.
 
